@@ -25,11 +25,11 @@ This project is an e-commerce web application named **COSTY**. It features a mod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-web-app.git
+   git clone https://github.com/emreertugrl/COSTY.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ecommerce-web-app
+   cd COSTY
    ```
 3. Open `index.html` in your browser to see the application in action.
 
