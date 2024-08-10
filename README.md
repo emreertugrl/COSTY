@@ -39,7 +39,7 @@ This project is an e-commerce web application named **COSTY**. It features a mod
 
 ## Live Demo
 
-<a href="https://me">Netlify Project View</a>
+<a href="https://costyapp.netlify.app/">Netlify Project View</a>
 
 ## APIs Used
 
@@ -51,25 +51,3 @@ For any questions or suggestions, feel free to reach out:
 
 - **Email**: emreertugrl7@gmail.com
 - **LinkedIn**: [Emre Ertugrul](https://www.linkedin.com/in/emreertugrul7/)
-
-# -----------------
-
-🚀 New Project: E-Commerce Web Application 🛍️
-
-Hello everyone!
-
-I'm thrilled to share my latest project with you: **E-Commerce Web Application** 📱🛒
-
-This application allows users to explore various products and add them to their shopping cart with a user-friendly and modern interface. Some features of the project include:
-
-✨ Navigation through different product categories (Women, Men, Kids, Accessories)
-✨ Access to product detail pages (name, price, description, image)
-✨ Add products to the cart and calculate the total price
-✨ Mobile-friendly responsive design
-
-You can check out the project on GitHub:
-🔗 https://github.com/emreertugrl/e-commerce-web-application
-
-I've gained valuable experience developing this project and enhanced my skills. I would love to hear your feedback! 🎉
-
-#webdevelopment #coding #javascript #html #css #ecommerce #projectshare
